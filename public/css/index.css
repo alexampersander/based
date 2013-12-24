@@ -1,0 +1,20 @@
+#welcome {
+  font-size: 5em;
+  font-weight: 300;
+  text-align: center;
+  color: #04bfbf;
+}
+.textblock {
+  margin: 0 50px 0 50px;
+  width: 400px;
+  display: inline-block;
+  border-right: 1px solid #b3b3b3;
+}
+#intro {
+  margin-top: 200px;
+}
+#introcontainer {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+}

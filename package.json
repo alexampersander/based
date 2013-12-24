@@ -1,0 +1,16 @@
+{
+    "name": "based",
+    "version": "0.1.0",
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.2.x"
+    },
+    "dependencies": {
+        "express": "latest",
+        "mongoose": "latest",
+        "newrelic": "latest",
+        "bcryptjs": "latest",
+        "jade": "latest",
+        "stylus": "latest"
+    }
+}
